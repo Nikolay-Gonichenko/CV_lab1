@@ -14,7 +14,7 @@
 1. Сравнение производительности
 ![Сравнение производительности](https://github.com/Nikolay-Gonichenko/CV_lab1/raw/main/speed_test.jpg)
 2. Тестирование на реальном изображении
-![Тестирование на реальном изображении](https://github.com/Nikolay-Gonichenko/CV_lab1/raw/main/real_test.jpg)
+![Тестирование на реальном изображении](https://github.com/Nikolay-Gonichenko/CV_lab1/raw/main/real_test.png)
 
 # Выводы по работе 
 1. Библиотечная реализация (OpenCV) значительно быстрее нативных реализаций (в 100-500 раз) благодаря:
@@ -29,4 +29,4 @@
 3. Видно, что по качеству полученных изображений оба метода справляются одинаково.
 
 # Источники
-1. [OpenCV Documentation] (https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html) 
+1. [OpenCV Documentation](https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html) 
